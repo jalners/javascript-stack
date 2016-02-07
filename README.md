@@ -1,5 +1,7 @@
 # javascript-stack 
 
+Simple realization of stack for javascript.
+
 ### Getting Started
 
 For testing you need to install some dependencies:
