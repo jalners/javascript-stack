@@ -1,0 +1,14 @@
+{
+  "name": "javascript-stack",
+  "version": "0.1.0",
+  "description": "Data Structures in JavaScript: Stack",
+  "author": "Alexey Neretin <jalners@yandex.ru>",
+  "license": "MIT",
+  "homepage": "https://github.com/jalners/javascript-stack",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-node spec"
+  },
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
